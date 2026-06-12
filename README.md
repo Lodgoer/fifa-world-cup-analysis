@@ -73,7 +73,4 @@ The goal was to clean messy real-world data, fix encoding issues, and create mea
 ## 📁 Output
 - Chart saved as: `fifa_histograms.png`
 
----  
-
-با احترام  
-[Your Name]
+---
